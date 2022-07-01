@@ -140,7 +140,7 @@ const renderAllClips = function () {
   assignAudioClip("signal", `Did anyone hear the signal?`);
   assignAudioClip(
     "signal3",
-    `He did sasy he was gonna throw us off his body...`
+    `He did say he was gonna throw us off his body...`
   );
   assignAudioClip("signal2", `Don't tell Mom...`);
   assignAudioClip("child", `A child could beat him!`);
